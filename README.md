@@ -9,7 +9,7 @@ elements set to 1.
 If interested in my comments I invite you to read the following 
 post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2022/01/28/leetcode-1504-count-submatrices-with-all-ones-in-java/
 
 Keep in mind that one of the best ways to learn is to read,
 experiment, and repeat. Practice makes perfect.
